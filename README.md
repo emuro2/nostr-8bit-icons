@@ -4,6 +4,7 @@ NOSTR 8-bit icon art
 ## Valve 4 Value (V4V)
 - [bcus@strike.me](https://strike.me/bcus/) :zap:
 - Buy some awesome [JUXTAPOSE](https://juxtapose.store/) Merch
+- npub1aesr9ql7h3xrrvyeqvujgz9zllca4a56cgjy5hj26plv5w78nhkq2m0d2r
 
 ## Nostr Icons
 
